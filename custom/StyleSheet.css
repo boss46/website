@@ -1,0 +1,17 @@
+﻿body {
+    padding-top:50px;
+}
+fieldset {
+    border: thin solid #ccc; 
+    border-radius: 4px;
+    padding: 20px;
+    padding-left: 40px;
+    background: #fbfbfb;
+}
+legend {
+   color: #678;
+}
+.btn-round
+{
+    border-radius:25px;
+}
