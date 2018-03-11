@@ -56,7 +56,7 @@
             <a href="registration.aspx">
                 <img src="images/bloodman.png" class="img-responsive" />
             </a>
-            <asp:LinkButton ID="LinkButton4" runat="server" CssClass="btn btn-success btn-block">become a donar</asp:LinkButton>
+            <asp:LinkButton ID="LinkButton4" runat="server" CssClass="btn btn-success btn-block">become a donor</asp:LinkButton>
         </div>
     </div>
     <div class="col-xl-3 col-lg-3 col-md-3 col-sm-3">
